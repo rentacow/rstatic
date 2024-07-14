@@ -1,0 +1,7 @@
+How to install scenarios with Copy/Paste:
+
+1) Create a new text file in your Dangerous Waters\Scenario folder. Rename the file to change its extension (file type) from ".txt" to ".mu"
+2) Copy the data for a scenario you want.
+3) Paste the data into the .mu file created in step one and save it.
+
+All Done!
